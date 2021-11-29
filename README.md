@@ -8,7 +8,8 @@ Para ejecutar el servicio primedo descargue el zip compilado (demo-tareas.zip), 
 # Script Base de Datos "PRUEBAS"<br/>
 Copiar el contenido de "script.db.txt"<br/>
 Abrir Sql Server 2012 o superior<br/>
-abrir pestaña "New Query"<br/>
+Iniciar su instancia<br/>
+Abrir pestaña "New Query"<br/>
 Copiar el contenido previo<br/>
 Ejecutar (F5)<br/>
 
