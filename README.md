@@ -5,7 +5,7 @@ El servicio web fue creado con Spring Boot 2.5.6 y Sql Server 2019.<br/>
 
 Para ejecutar el servicio primedo descargue el zip compilado (demo-tareas.zip), ademas el script de la base de dato (script.db.txt)<br/>
 
-# Script Base de Datos "PRUEBA"<br/>
+# Script Base de Datos "PRUEBAS"<br/>
 Copiar el contenido de "script.db.txt"<br/>
 Abrir Sql Server 2012 o superior<br/>
 abrir pestaña "New Query"<br/>
