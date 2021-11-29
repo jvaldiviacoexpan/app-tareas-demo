@@ -19,4 +19,7 @@ Dirijase a File -> Import...<br/>
 Expandir General -> Seleccionar "Existing Projects into Workspace"<br/>
 Seleccionar "Select archive file:" y buscar el zip descargado "demo-tareas.zip"<br/>
 Luego click en Finish<br/>
+Expandir src/main/resource
+Abrir "application.properties"
+Modificar Servidor, Usuario y Password de la conexion Sql Server
 Ejecutar el servicio.<br/>
